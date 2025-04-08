@@ -1,0 +1,9 @@
+export { default as Favorites } from './favorites.svg';
+export { default as AddBasket } from './add-basket.svg';
+export { default as Basket } from './basket.svg';
+export { default as User } from './user.svg';
+export { default as Uzum } from './uzum.svg';
+export { default as HeaderSearch } from './header-search.svg';
+export { default as AddedBasket } from './added-basket.svg';
+export { default as MobileUser } from './mobile-user.svg';
+export { default as Exit } from './exit.svg';

@@ -1,0 +1,1903 @@
+{
+  "categories": [
+    {
+      "title": "Электроника",
+      "slug": "electronics",
+      "products": [
+        {
+          "id": 1,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            },
+            {
+              "name": "размер",
+              "id": "size",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "1",
+                  "variantTitle": "1XL"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "2",
+                  "variantTitle": "2Xl"
+                }
+              ],
+              "expensivePrices": [0, 20000]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 2,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 3,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 4,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 5,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Бытовая техника",
+      "slug": "household-appliances",
+      "products": [
+        {
+          "id": 6,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 7,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 8,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 9,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        },
+        {
+          "id": 10,
+          "category": "Электроника",
+          "categorySlug": "electronics",
+          "product": "Laptop",
+          "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+          "description": "Черный Чехол для Телефона Honor 8X 70 90 Pro X6a X7 X7b X8 X8a X8b X9a X9b Magic5 Lite Мягкий Кейс Белый Крутая Красавица Богиня",
+          "title": "Ноутбук ProBook",
+          "price": 120000,
+          "discount": 130000,
+          "reviews": 45,
+          "rating": 4.7,
+          "sells": 30,
+          "reviewsList": [
+            {
+              "id": "review-1",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-3",
+              "user": "Анна Смирнова",
+              "rating": 5,
+              "comment": "Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро. Отличный ноутбук, все работает быстро.",
+              "date": "2023-09-25"
+            },
+            {
+              "id": "review-2",
+              "user": "Дмитрий Козлов",
+              "rating": 4,
+              "comment": "Хороший дисплей, но батарея могла бы быть лучше.",
+              "date": "2023-09-28"
+            }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "серебристый"
+            },
+            {
+              "id": 2,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "черный"
+            },
+            {
+              "id": 3,
+              "img": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+              "imageDec": "золотой"
+            }
+          ],
+          "characteristics": [
+            {
+              "name": "цвет",
+              "id": "color",
+              "variants": [
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "gray",
+                  "variantTitle": "серебристый"
+                },
+                {
+                  "variantImage": "https://img.kwcdn.com/product/fancy/ebbd9bd8-c698-4e3d-9718-6a610cf21e8f.jpg?imageView2/2/w/375/q/50/format/webp",
+                  "variantName": "black",
+                  "variantTitle": "черный"
+                }
+              ],
+              "expensivePrices": [0, 200, 500]
+            },
+            {
+              "name": "оперативная память",
+              "id": "ram",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "8",
+                  "variantTitle": "8gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "16",
+                  "variantTitle": "16gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "32",
+                  "variantTitle": "32gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "64",
+                  "variantTitle": "64gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "512",
+                  "variantTitle": "512gb"
+                }
+              ],
+              "expensivePrices": [0, 10000, 20000, 30000, 40000, 90000, 120000, 150000, 270000]
+            },
+            {
+              "name": "жесткий диск",
+              "id": "storage",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "128",
+                  "variantTitle": "128gb"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "256",
+                  "variantTitle": "256gb"
+                }
+              ],
+              "expensivePrices": [0, 15000, 30000]
+            },
+            {
+              "name": "операционная система",
+              "id": "os",
+              "variants": [
+                {
+                  "variantImage": "",
+                  "variantName": "windows",
+                  "variantTitle": "Windows"
+                },
+                {
+                  "variantImage": "",
+                  "variantName": "linux",
+                  "variantTitle": "Linux"
+                }
+              ],
+              "expensivePrices": [15000, 0]
+            }
+          ],
+          "isFavorite": false,
+          "isBasket": false,
+          "availability": {
+            "status": "in_stock",
+            "deliveryTime": "3-5 дней"
+          },
+          "details": {
+            "images": [
+              {
+                "dec": "pra pra pra",
+                "img": "/card-details.jpg"
+              },
+              {
+                "dec": "pra pra",
+                "img": "/card-details-2.jpg"
+              }
+            ],
+            "list": [
+              "Выходная мощность микроволновой печи 700 Вт",
+              "Объем 20 Л",
+              "Таймер 35 мин",
+              "5 уровней мощности",
+              "Функции: микроволновая печь, разморозка",
+              "Гарантия - 3 года"
+            ],
+            "text": "<p>Кухонная мойка модели 2024 с двумя водопадными изливами, термостатическим смесителем с трехходовым выдвижным изливом и встроенным скрытым цифровым дисплеем, зеркалом для ополаскивания, краном для фильтрованной воды, дозатором моющих средств, разделочной доской, корзиной, переливом и автоматическим сливным сифоном.</p>\n<p>Эта модель воплощает в себе лучшее из современных крабовых технологий. Он сочетает в себе элегантный дизайн и функциональность, что обеспечивает комфорт и эффективность на кухне. Изготовлен из нержавеющей стали с прочным PVD-покрытием, которое придает безелю элегантный черный вид. Это не только придает ему современный вид, но и обеспечивает долгий срок службы.</p><p>Габаритные внешние размеры мойки: 68х46х22 см.</p>"
+          },
+          "warranty": "2 года",
+          "tags": [
+            "игры",
+            "работа",
+            "легкий"
+          ],
+          "categories": [
+            "Электроника",
+            "Ноутбуки, планшеты и электронные книги ",
+            "Аксессуары для ноутбуков"
+          ]
+        }
+      ]
+    }
+  ]
+}
