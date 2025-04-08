@@ -1,1 +1,1 @@
-export {DrawerCharacteristic} from './DrawerCharacteristic'
+export { DrawerCharacteristic } from './DrawerCharacteristic';

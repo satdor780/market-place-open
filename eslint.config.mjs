@@ -27,19 +27,18 @@ const eslintConfig = [
       '**/*.spec.js',
     ],
     rules: {
-      // заменяем sort-imports на это:
       'import/order': [
         'error',
         {
           groups: [
-            'builtin', // fs, path
-            'external', // react, next
-            'internal', // @/...
-            'parent', // ../
-            'sibling', // ./
-            'index', // index.ts
-            'object', // import * as ...
-            'type', // import type { ... }
+            'builtin',
+            'external',
+            'internal',
+            'parent',
+            'sibling',
+            'index',
+            'object',
+            'type',
           ],
           pathGroups: [
             {
